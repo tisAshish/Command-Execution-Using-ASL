@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+mediapipe==0.10.14
+numpy==1.24.2
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.82
+pynput==1.7.7
+pyttsx3==2.90
+Requests==2.32.3
+scikit_learn==1.4.1.post1
+wikipedia==1.4.0
+youtube_search==2.1.2
